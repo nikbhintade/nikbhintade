@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile. Here, you’ll find my technical blogs, projects, and the tools I’m building.
 
+📝 **Technical Blogs**
+
+- [Developer's Guide to Account Abstraction Series](https://medium.com/@nikbhintade/list/developers-guide-to-erc4337-d34102dd0c5a) (Ongoing series, currently on Part 5)
+
 ---
 
 📫 Feel free to reach out to me!
