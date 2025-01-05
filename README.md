@@ -6,6 +6,17 @@ Welcome to my GitHub profile. Here, you’ll find my technical blogs, projects, 
 
 - [Developer's Guide to Account Abstraction Series](https://medium.com/@nikbhintade/list/developers-guide-to-erc4337-d34102dd0c5a) (Ongoing series, currently on Part 6)
 
+🛠️ **Projects**
+- Account Contract with ERC4337
+- Whitelisted Paymaster with ERC4337
+- ERC4337 Account Factory
+- BLS Signature Verification (EIP-7591)
+- WebAuthn + ERC4337
+- EIP-7702 Demo
+- P256 Signature Verification On-Chain
+- Liquid Staking on Sei EVM (with bot to handle delegation strategy)
+- Compound V2 on Nil (ZK-Sharded EVM)
+
 ---
 
 📫 Feel free to reach out to me!
