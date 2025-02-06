@@ -7,7 +7,7 @@ Welcome to my GitHub profile. Here, you’ll find my technical blogs, projects, 
 - [Developer's Guide to Account Abstraction Series](https://medium.com/@nikbhintade/list/developers-guide-to-erc4337-d34102dd0c5a) (Ongoing series, currently on Part 6)
 
 🛠️ **Projects**
-- Account Contract with ERC4337
+- [Account Contract with ERC4337](https://github.com/nikbhintade/erc4337-simple-account)
 - Whitelisted Paymaster with ERC4337
 - ERC4337 Account Factory
 - BLS Signature Verification (EIP-7591)
