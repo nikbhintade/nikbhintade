@@ -10,7 +10,7 @@ Welcome to my GitHub profile. Here, you’ll find my technical blogs, projects, 
 - [Account Contract with ERC4337](https://github.com/nikbhintade/erc4337-simple-account)
 - [ERC4337 Paymaster (Signature Verification)](https://github.com/nikbhintade/erc4337-simple-paymaster)
 - [ERC4337 Account Factory](https://github.com/nikbhintade/account-factory)
-- [BLS Signature Verification (EIP-2537)](https://github.com/nikbhintade/bls-verification-eip-2537)
+- [BLS Signature Generation, Verification & Aggregation (EIP-2537)](https://github.com/nikbhintade/bls-verification-eip-2537)
 - WebAuthn + ERC4337
 - EIP-7702 Demo
 - P256 Signature Verification On-Chain
