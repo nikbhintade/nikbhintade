@@ -15,6 +15,8 @@ Welcome to my GitHub profile. Here, you’ll find my technical blogs, projects, 
 - [BLS Signature Generation, Verification & Aggregation (EIP-2537)](https://github.com/nikbhintade/bls-verification-eip-2537)
 - [Signature Aggregator (ERC4337)](https://github.com/nikbhintade/erc4337-signatre-aggregator)
 
+🛠️ **Side Projects**
+- [Web3Hires TG Bot](https://t.me/web3hires): This fetches jobs from 250+ companies and sends it to Web3Hires TG group once a day. This project is almost 1.5k cloc.
 
 
 ---
